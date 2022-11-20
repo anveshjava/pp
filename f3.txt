@@ -1,1 +1,2 @@
 Third file from the git hub
+first line from the mac machine
