@@ -1,2 +1,3 @@
 Hi 
 second line from the git hub
+third line from the mac machine
